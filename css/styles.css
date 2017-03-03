@@ -1,0 +1,22 @@
+td{
+  width: 200px;
+  height: 200px;
+  border: black 3px solid;
+  margin-left: 10px;
+}
+
+h1{
+  text-align: center;
+}
+
+.X{
+  font-size: 40px;
+  font-style: italic;
+}
+
+img {
+  width: 178px;
+  length: 178px;
+  border: 5px;
+  padding-left:20px;
+}
